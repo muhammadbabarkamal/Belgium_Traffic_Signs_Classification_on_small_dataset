@@ -12,4 +12,4 @@ There are 4 main Classification techniques been used in this repository
 
 ** Model Folder contains the Models of Vision Transformer and CNN
 
-** Traning models folder Contains the Mani file of Belgium Traffic Sign Classification of 10 classes IPBY
+the Main file of Belgium Traffic Sign Classification of 10 classes IPBY
